@@ -1,1 +1,1 @@
-use of OpenAI with directory load and RAG interface
+use of OpenAI native API/Embeddings with directory load and RAG interface
