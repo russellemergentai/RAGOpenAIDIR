@@ -1,1 +1,1 @@
-first use of OpenAI with directory load
+use of OpenAI with directory load and RAG interface
